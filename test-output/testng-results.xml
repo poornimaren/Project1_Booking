@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20023" started-at="2021-01-08T09:28:41Z" finished-at="2021-01-08T09:29:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20023" started-at="2021-01-08T09:28:41Z" finished-at="2021-01-08T09:29:01Z">
+      <class name="org.task2.DemoBlaze">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.task2.DemoBlaze@2b98378d]" name="tc1" duration-ms="20001" started-at="2021-01-08T14:58:41Z" finished-at="2021-01-08T14:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.task2.DemoBlaze -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
